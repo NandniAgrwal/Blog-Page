@@ -1,0 +1,17 @@
+body{
+    background-color: beige;
+    background-position: none;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    background-image: url("https://images.unsplash.com/reserve/m6rT4MYFQ7CT8j9m2AEC_JakeGivens%20-%20Sunset%20in%20the%20Park.JPG?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGlnaHQlMjBuYXR1cmV8ZW58MHx8MHx8fDA%3D");
+    background-size: cover;
+}
+a{
+    text-decoration: none;   
+}
+p{
+    line-height: 2;
+    
+}
